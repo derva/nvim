@@ -1,0 +1,5 @@
+require('derva/lsp')
+require('derva/mason')
+require('derva/telescope')
+require('derva/onedark')
+require('derva/treesitter')
